@@ -1,5 +1,10 @@
 # MiBand8_WatchFace_SMB1
 
+## Preview
+
+![](images/preview.png)
+![](AOD/images/preview.png)
+
 ## How to compile?
 
 1. Download [EasyFace](https://github.com/m0tral/EasyFace). Then decompress it.
