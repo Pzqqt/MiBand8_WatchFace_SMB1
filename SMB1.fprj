@@ -14,6 +14,6 @@
         <Widget Shape="31" Name="BluetoothImageList" X="152" Y="370" Width="16" Height="24" Alpha="255" Visible_Src="0" Index_Src="2041" DefaultIndex="0" BitmapList="(0):bluetooth_off.png|(1):bluetooth_on.png" />
         <Widget Shape="31" Name="WeekImageList" X="40" Y="32" Width="48" Height="16" Alpha="255" Visible_Src="0" Index_Src="2012" DefaultIndex="0" BitmapList="(0):week_0.png|(1):week_1.png|(2):week_2.png|(3):week_3.png|(4):week_4.png|(5):week_5.png|(6):week_6.png" />
         <Widget Shape="31" Name="AmPmImageList" X="120" Y="32" Width="32" Height="16" Alpha="255" Visible_Src="0" Index_Src="813" DefaultIndex="0" BitmapList="(0):AM.png|(1):PM.png" />
-        <Widget Shape="31" Name="StepsProgressRateImageList" X="32" Y="362" Width="48" Height="80" Alpha="255" Visible_Src="0" Index_Src="1021" DefaultIndex="0" BitmapList="(0):steps_p1.png|(50):steps_p2.png|(100):steps_p3.png" />
+        <Widget Shape="31" Name="StepsProgressRateImageList" X="32" Y="362" Width="64" Height="80" Alpha="255" Visible_Src="0" Index_Src="1021" DefaultIndex="0" BitmapList="(0):steps_p1.png|(33):steps_p2.png|(67):steps_p3.png|(100):steps_p4.png" />
     </Screen>
 </FaceProject>
