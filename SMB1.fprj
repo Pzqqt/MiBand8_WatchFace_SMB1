@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <FaceProject DeviceType="9">
     <Screen Title="Super Mario Bros" Bitmap="preview.png">
-        <Widget Shape="30" Name="background" X="0" Y="0" Width="192" Height="490" Alpha="255" Visible_Src="0" Bitmap="background.png" />
+        <Widget Shape="31" Name="BackgroundImageList" X="0" Y="0" Width="192" Height="490" Alpha="255" Visible_Src="0" Index_Src="1841" DefaultIndex="0" BitmapList="(0):background_0.png|(1):background_1.png" />
         <Widget Shape="31" Name="HourAImageList" X="16" Y="184" Width="48" Height="80" Alpha="255" Visible_Src="0" Index_Src="1000911" DefaultIndex="0" BitmapList="(0):LB_AA_0.png|(1):LB_AA_1.png|(2):LB_AA_2.png|(3):LB_AA_3.png|(4):LB_AA_4.png|(5):LB_AA_5.png|(6):LB_AA_6.png|(7):LB_AA_7.png|(8):LB_AA_8.png|(9):LB_AA_9.png" />
         <Widget Shape="31" Name="HourBImageList" X="80" Y="184" Width="48" Height="80" Alpha="255" Visible_Src="0" Index_Src="911" DefaultIndex="0" BitmapList="(0):LB_AB_0.png|(1):LB_AB_1.png|(2):LB_AB_2.png|(3):LB_AB_3.png|(4):LB_AB_4.png|(5):LB_AB_5.png|(6):LB_AB_6.png|(7):LB_AB_7.png|(8):LB_AB_8.png|(9):LB_AB_9.png" />
         <Widget Shape="31" Name="MinuteAImageList" X="64" Y="280" Width="48" Height="80" Alpha="255" Visible_Src="0" Index_Src="1211" DefaultIndex="0" BitmapList="(0):LB_BA_0.png|(1):LB_BA_1.png|(2):LB_BA_2.png|(3):LB_BA_3.png|(4):LB_BA_4.png|(5):LB_BA_5.png|(6):LB_BA_6.png|(7):LB_BA_7.png|(8):LB_BA_8.png|(9):LB_BA_9.png" />
